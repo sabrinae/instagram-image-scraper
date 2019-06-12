@@ -8,6 +8,7 @@ This script was heavily influenced by <a href="https://ctrlq.org/code/20538-inst
 For more info on turning an image URL into a blob, click <a href="https://stackoverflow.com/questions/14573055/can-i-download-file-from-url-link-generated-by-google-apps-script">here</a>.
 
 For more info on JavaScript Blobs: https://javascript.info/blob
+
 For more info on working with Blobs in GAS: https://developers.google.com/apps-script/reference/base/blob
 
 Check out the Instagram scraping with JS topic here: https://github.com/topics/instagram-scraper?l=javascript
